@@ -11,4 +11,6 @@ Skills: Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksei-P)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksei-P&show_icons=true&theme=dark)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 
