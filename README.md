@@ -15,11 +15,8 @@ Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ***
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aleksei-P)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksei-P)](https://github.com/Aleskei-p/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksei-P&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,contribs&theme=dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksei-P&theme=dark)](https://github.com/Aleskei-p/github-readme-stats)
 
 
