@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm Aleksei, frontend developer
+### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aleksei-P)I'm Aleksei, frontend developer
 ***
 Languages and Tools
 ***
@@ -15,7 +15,6 @@ Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ***
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aleksei-P)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksei-P&theme=dark)](https://github.com/Aleskei-p/github-readme-stats)
 
