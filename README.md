@@ -1,8 +1,7 @@
 # Hi there 👋
-### [<img src='https://avatars.githubusercontent.com/u/64387664?s=400&u=71facb294dd40d1c490af993fa98ec9ff261a5fd&v=4' alt='github' height='40'>](https://github.com/Aleksei-P) I'm Aleksei, frontend developer
+### I'm Alex, frontend developer
 ***
-
-Languages and Tools
+### Languages and Tools
 ***
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,8 +15,4 @@ Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ***
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksei-P&theme=dark)](https://github.com/Aleskei-p/github-readme-stats)
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aleksei-P)
