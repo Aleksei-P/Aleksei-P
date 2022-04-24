@@ -15,4 +15,7 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksei-P&theme=dark)](https://github.com/Aleskei-p/github-readme-stats)
+Connect with me:
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-lex/)
