@@ -1,7 +1,7 @@
 # Hi there 👋
 ### I'm Alex, frontend developer.
 
-I am interested in improving my skills and learning new technologies, creating functional well designed projects.
+I'm interested in improving my skills and learning new technologies, creating functional well designed projects.
 ***
 ### Languages and Tools
 
